@@ -1,6 +1,3 @@
-//Brittany Samuels 200404362- Lab 9 Computer Vision
-//Interesting lecture 
-
 //change from x86 to x64 since we are using x64 openCv
 #define _CRT_SECURE_NO_WARNINGS
 #include <opencv2/opencv.hpp>
